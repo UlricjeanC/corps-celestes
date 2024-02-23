@@ -1,6 +1,6 @@
 Le soleil est très proche du soleil.
 
-![Icone du soleil](soleil.png)
+![Icone du soleil](soleil.jpg)
 
 Icone créée par [NASA]( https://fr.wikipedia.org/wiki/Soleil#/media/Fichier:Solar_prominence_from_STEREO_spacecraft_September_29,_2008.jpg ) 
 
