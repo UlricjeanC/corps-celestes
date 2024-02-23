@@ -8,5 +8,5 @@ Icone créée par [NASA]( https://fr.wikipedia.org/wiki/Soleil#/media/Fichier:So
 
 - Masse : 7,347 7 × 10<sup>22</sup> kg
 - Rayon : 1 735 km
-- Symbole : U+263D;;
+- Symbole : &#x263D;
 
